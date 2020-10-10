@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "377727796307",
+    "firebase_url": "https://excaver-e200c.firebaseio.com",
+    "project_id": "excaver-e200c",
+    "storage_bucket": "excaver-e200c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377727796307:android:547502699275effe7a32a6",
+        "android_client_info": {
+          "package_name": "com.excaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377727796307-7b8cfv5t0l5ui7d79olsjn6k3hi59m2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.excaver",
+            "certificate_hash": "4b2e0f66f83fb4313d321263689262a9d5ea5cd6"
+          }
+        },
+        {
+          "client_id": "377727796307-o99kkjh1hlcomf7dbgr4en9mnlfmammb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtjwKPoh6xikhYlsJd8uI7cMqYiDKYAq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377727796307-o99kkjh1hlcomf7dbgr4en9mnlfmammb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
